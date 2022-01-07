@@ -1,6 +1,0 @@
-[submodule "vendors/pcl"]
-	path = vendors/pcl
-	url = https://github.com/PointCloudLibrary/pcl
-[submodule "vendors/eigen"]
-	path = vendors/eigen
-	url = https://gitlab.com/libeigen/eigen
